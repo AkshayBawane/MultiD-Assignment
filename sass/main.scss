@@ -2,13 +2,6 @@
 // # main.scss
 // ———————————————————————————————————————————————
 
-// ———————————————————————————————————————————————
-// # Table Of Contents
-// ———————————————————————————————————————————————
-
-// ———————————————————————————————————————————————
-// # Import Files
-// ———————————————————————————————————————————————
 
 // ———————————————————————————————————————————————
 // # Scss Plugins
@@ -37,18 +30,10 @@
 // # Scss Essentials
 // ———————————————————————————————————————————————
 @import "./scss-essentials/scss-bootstrap/bootstrap";
-// @import "./scss-essentials/scss-bootstrap/bootstrap-grid";
-// @import "./scss-theme/theme-helpers";
 
 // ———————————————————————————————————————————————
-// # Scss Demo Project
+// # Scss Project
 // ———————————————————————————————————————————————
-// @import "./scss-demo-project/01-my-notes"; This Should be always on Top.
-// @import "./scss-demo-project/cactus-global";
-// @import "./scss-demo-project/demo-1";
-// @import "./scss-demo-project/tidbits";
-// @import "./scss-demo-project/wingify";
-// @import "./scss-demo-project/banner-buzz";
 @import "./scss-demo-project/multidots";
 
 // ———————————————————————————————————————————————
@@ -90,10 +75,6 @@ textarea {
 	outline: 0;
 	max-width: 100%;
 }
-
-// Button hover style
-// button, select, .btn, input[type=button], input[type=file], .img-link, .text-link { transition: all 0.3s ease-out; cursor: pointer;}
-// button:hover, select:hover, .btn:hover, input[type=button]:hover, input[type=file]:hover, .img-link:hover, .text-link:hover { cursor: pointer;}
 
 // ———————————————————————————————————————————————
 // # Scroll To Top
